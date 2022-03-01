@@ -100,4 +100,7 @@ None
 
 ## Pictures
 
+![Picture of Unity+Game Capture](Images/UnityGameCapture.PNG?raw=true "Title")
 ![Picture of Unity+Game Capture](Images/DurinGameCapture.PNG?raw=true "Title")
+![Picture of Unity+Game Capture](Images/FightWithGhostCapture.PNG?raw=true "Title")
+![Picture of Unity+Game Capture](Images/FightWithBossCapture.PNG?raw=true "Title")
